@@ -134,6 +134,9 @@ JDK Platform binary
 7- if you made any changes in your project, so you can add those changes in your exe file by;
 clicking again on build -> build artifact -> rebuild.
 
+# HOW TO FIND SOURCE CODE
+Select folder --> corona virus information system --> src --> com/company/myPackage --> Main.java
+
 # VEDIO LINK
 https://youtu.be/A9FipkPMdOQ
 
