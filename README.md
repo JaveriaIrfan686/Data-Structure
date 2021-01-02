@@ -90,9 +90,9 @@ Then the data that we have scrapped, stored that data in hash map by passing key
 " HashMap<String, String> map = new HashMap<String, String>();"
 
 And pass "key" and "value" in insert method of hash map that is "put()" that add up all the data.
-
+map.put(text2, num);
 "for (Map.Entry map : map.entrySet()) {
-                row.add(element1.select(".maincounter-number").text());
+        row.add(element1.select(".maincounter-number").text());
 }"
 
 while storing elements in a hashmap, it have used two methods in which "Entry" method is used 
@@ -106,7 +106,7 @@ a component. When screen real estate is limited, you can use a scroll pane to di
 component that is large or one whose size can change dynamically.
 
 # INSTALLATION GUIDE
-In order to install this app, all you need to is follow this specific steps:
+In order to install this app, all you need to is follow these specific steps:
 ### STEP1: 
  Click on the "out" option in above given project.
 ### STEP2: 
@@ -116,10 +116,10 @@ In order to install this app, all you need to is follow this specific steps:
  AS YOU CLICK ON THE INSTRUCTION GIVEN IN THE STEP 3, APPLICATION WILL BE INFRONT OF YOU. 
 
 # SUPPORTED OPERATING SYSTEM
-It will run smoothing on "WINDOWS"
+WINDOWS
 
 # REQUIREMENTS FOR INSTALLATION
-JDK Platform binary
+Java Run Time Enviroment
 
 # MAKING OF .EXE FILE:
 (For intellij users)
