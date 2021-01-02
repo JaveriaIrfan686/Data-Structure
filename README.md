@@ -27,6 +27,7 @@ is similar to what is stored in array then it shoud store that alpha into a stri
 Also there is a start named variable that store length of what is written on the textfield.
 As the for loop breaks, there is again a condtion which is used to set the text (country name) on the text field. 
 
+
 ## JTABLE:
 Here we have created JTable by having 4 labelled columns as “Country Name”, “Total Cases”, 
 “Total Death” and “Total Recovered” which is a array of type "Object[]".
