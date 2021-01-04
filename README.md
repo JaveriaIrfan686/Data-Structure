@@ -106,20 +106,13 @@ a component. When screen real estate is limited, you can use a scroll pane to di
 component that is large or one whose size can change dynamically.
 
 # INSTALLATION GUIDE
-In order to install this app, all you need to is follow these specific steps:
-### STEP1: 
- Click on the "out" option in above given project.
-### STEP2: 
- Select "artifacts".
-### STEP3: 
- Select "corona_virus_information_system_jar".
- AS YOU CLICK ON THE INSTRUCTION GIVEN IN THE STEP 3, APPLICATION WILL BE INFRONT OF YOU. 
-
-# SUPPORTED OPERATING SYSTEM
-WINDOWS
+In order to install this app, all you need to do id click on the "corona_information_system" and you will get the app.
 
 # REQUIREMENTS FOR INSTALLATION
 Java Run Time Enviroment
+
+# SUPPORTED OPERATING SYSTEM
+WINDOWS
 
 # MAKING OF .EXE FILE:
 (For intellij users)
